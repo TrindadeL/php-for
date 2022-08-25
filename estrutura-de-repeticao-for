@@ -1,0 +1,6 @@
+<?php
+//mostra os números de 0 à 9
+for ($i = 0; $i < 10; $i++) {
+  echo "O número é: $i <br/>";
+}
+?>
